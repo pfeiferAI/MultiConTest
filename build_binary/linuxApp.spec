@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['App.py'],
+a = Analysis(['../multicontest/App.py'],
              pathex=[],
              binaries=[],
              datas=[],
