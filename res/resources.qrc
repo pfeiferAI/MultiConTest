@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>multicontest_icon.png</file>
+    <file>multicontest_warning.png</file>
+    <file>multicontest_question.png</file>
+  </qresource>
+  <qresource prefix="style">
+    <file>multicontest_style.qss</file>
+  </qresource>
+  <qresource prefix="license">
+    <file>license_text.html</file>
+    <file>opensource_package_licenses.html</file>
+  </qresource>
+</RCC>
